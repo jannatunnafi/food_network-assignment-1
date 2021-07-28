@@ -1,0 +1,128 @@
+span{
+    color: darkorange;
+}
+
+body{
+    font-family: 'Rubik', sans-serif;
+}
+
+.button-1{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 300;
+    background-image:linear-gradient(orange,red);
+    background-image-slice:1;
+    border-radius:20px;
+    padding:10px 20px;
+}
+
+.fifty-fifty{
+    width: 50%;
+    float: left;
+    position: relative;
+    margin-top: 70px;
+    margin-bottom:10px;
+    margin-left: 60px;
+}
+
+.fifty-fifty img{
+    width:100%;
+    float:right;
+    position: relative;
+   margin-bottom:30px;
+   margin-right: 40px;
+}
+
+.flexible-container{
+    display: flex;
+    margin: 150px;
+}
+
+#second-para{
+    margin-top: 60px;
+    padding-left: 20px;
+}
+
+.mid-part{
+    background-image: url(images/mid\ banner.jpg);
+    background-repeat: no-repeat;
+}
+
+.the-end{
+    background-color: black;
+    text-align: center;
+    
+
+}
+#footer-halfhead{
+    color: cornsilk;
+
+}
+.recipe-intro{
+    text-align: center; 
+    
+}
+
+.recipes-list{
+box-shadow: 10px 10px 40px gray;
+width: 80%;
+margin-right: 40px;
+border-radius: 20px;
+
+}
+.recipes-list img{
+width: 40% ;
+height:40%;
+}
+#beans-recipe{
+    padding-top: 5%;
+    padding-right:1%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+#veg-recipe{
+    padding-top: 5%;
+    padding-right:1%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+#tomato-recipe{
+    padding-top: 5%;
+    padding-right:1%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+
+h1{
+    font-weight: 700;
+}
+
+#youtube{
+    padding-top: 5%;
+    padding-right:1%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+
+#facebook{
+    padding-top: 5%;
+    
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+
+#instagram{
+    padding-top: 5%;
+    padding-right:1%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+
+#socialmedia{
+    width: 70%;
+    margin: 0px auto;
+    
+}
+
+
+
